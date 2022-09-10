@@ -1,5 +1,10 @@
 # BannerCreator
 
+![GitHub repo size](https://img.shields.io/github/repo-size/morefoxbeans/BannerCreator?style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/morefoxbeans/BannerCreator?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/morefoxbeans/BannerCreator?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/morefoxbeans/BannerCreator/total?style=for-the-badge)
+
 Procedural banner generator made using Processing 4!
 
 ## Why are there no releases!!11!1
