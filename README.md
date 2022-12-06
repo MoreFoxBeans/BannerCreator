@@ -7,13 +7,7 @@
 
 Procedural banner generator made using Processing 4!
 
-## Why are there no releases!!11!1
-
-Sadly when I exported the application for Windows and Linux neither of them worked so I guess no releases for you! ;)
-
-<img src="noreleases.png" width="300"></img>
-
-## So what do all the controls mean?
+## What do all the controls mean?
 
 |Name|Action|
 |-|-|
